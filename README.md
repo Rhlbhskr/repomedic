@@ -220,7 +220,7 @@ repomedic/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/repomedic.git
+git clone https://github.com/Rhlbhskr/repomedic.git
 cd repomedic
 ```
 
